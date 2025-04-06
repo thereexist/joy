@@ -7,3 +7,5 @@
 2. [고대의 음계, 현대의 음계는 주파수 비가 다르다..?!](https://github.com/thereexist/joy/blob/main/Tuning_type_dependent_scale_tone.ipynb)
 
 3. [센과 치히로의 행방불명 ost "언제나 몇 번이라도" 를 활용한 조 바꿈 연구](https://github.com/thereexist/joy/blob/main/Always_with_me.ipynb)
+
+4. [빛의 분산: 왜 현대 광학에서는 프리즘으로 빛을 나누지 않는가?](https://github.com/thereexist/joy/blob/main/diffraction/diffraction.ipynb)
