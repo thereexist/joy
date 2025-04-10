@@ -9,3 +9,7 @@
 3. [센과 치히로의 행방불명 ost "언제나 몇 번이라도" 를 활용한 조 바꿈 연구](https://github.com/thereexist/joy/blob/main/Always_with_me.ipynb)
 
 4. [빛의 분산: 왜 현대 광학에서는 프리즘으로 빛을 나누지 않는가?](https://github.com/thereexist/joy/blob/main/diffraction/diffraction.ipynb)
+
+5. [(이전수업자료) Damped Oscillation 시각화](https://github.com/thereexist/joy/blob/main/oscillation.ipynb)
+
+6. [(이전수업자료) Monte Carlo 소개, waiting time distribution, CTRW 소개](https://github.com/thereexist/joy/blob/main/CTRW_Lecture_note.ipynb)
